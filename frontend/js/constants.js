@@ -1,7 +1,7 @@
-const contractAddress = "0x6BBa170506bFD6A457E8443a9Ba0a56120DC1117"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = ""0x77EA579ae60607bAf25e57A14893b21715f4c7Cb"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Zoomily Zebrally NFT Project!!";
+const welcome_h1 = "Welcome to the Zoomily Ultra-Rare 30 Limited NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Zoomily Zebrally NFT Project is created to raise awareness to protect the threathened Striped Zebra species, of which there are only 300,000 in number left in the world according to National Graphic. This is an awareness project.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
@@ -10,7 +10,7 @@ const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
 const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
-const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
+const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale..😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
 const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
